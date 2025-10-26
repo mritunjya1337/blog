@@ -4,7 +4,7 @@ Cryptography can generally be divided into classical cryptography and modern cry
 Among them, classical cryptography, as a practical art, its coding and deciphering usually depends on the creativity and skill of designers and adversaries, and does not clearly define the original cryptography. Classical cryptography mainly includes the following aspects:
 
 
-- Monoalphabetic Cipher
+- Jopraveen
 - Polyalphabetic Cipher
 - Strange encryption
 
